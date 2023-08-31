@@ -1,3 +1,5 @@
-E3_binder_model_paper2
+Pharmacophoric-based ML model to filter candidate E3 ligands and predict E3 Ligase binding probabilities
 
-Differently from folder E3_binder_model where are collected files for ACS_OMEGA paper for E3 ligase selectivity predictions, here you will find the data used for the modelization to be E3 ligase binder or not, unrespective for which ligase. 
+[DOI](https://doi.org/10.1101/2023.08.10.552794)
+
+
